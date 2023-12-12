@@ -2,8 +2,6 @@
 
 Quick E-commerce website application with commercejs, midtrans, rajaongkir
 
-https://commercejn.herokuapp.com/
-
 ## Case study
 
 Streetwear is famous for its style that tends to be casual and non-formal so it is suitable for various events. This style trend creates a community that is loyal to certain brands and causes the price of streetwear to become very expensive, becoming a luxury item. JNB was created because we want streetwear to return to being a style that everyone can wear. With our website, users can easily buy and access quality streetwear at affordable prices. Accompanied by the pandemic period, buying and selling online has become a habit, increasing the online sales market and online advertisement.
